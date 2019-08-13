@@ -1,0 +1,5 @@
+# a long stream of the definitions
+
+gCounter is: 5134
+jCounter is: 1182
+SEE, ITS GIF
